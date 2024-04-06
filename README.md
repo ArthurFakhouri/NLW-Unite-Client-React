@@ -50,4 +50,4 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - [Lucide React](https://lucide.dev)
 
 ## :memo: Licença
-Este projeto está sob a licença do MIT. Consulte a LICENÇA para obter detalhes.
+Este projeto está sob a licença do MIT. Consulte a [LICENÇA](LICENSE) para obter detalhes.
