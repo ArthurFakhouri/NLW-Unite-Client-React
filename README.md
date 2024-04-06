@@ -7,14 +7,14 @@
 </h4>
 
 <p align="center">
-  <a href="#-projeto">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-executar">How to execute it</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#%EF%B8%8F-demonstração">Demonstration</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">License</a>
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-executar">Como executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#%EF%B8%8F-demonstração">Demonstração</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
 </p>
 
-## 🈸 Project
+## 🈸 Projeto
 
 O pass.in é uma aplicação de gestão de participantes em eventos presenciais.
 
@@ -28,22 +28,20 @@ O sistema fará um scan da credencial do participante para permitir a entrada no
 - Listar participantes em um evento
 - Filtrar participantes em um evento
 
-In addition to creating unit tests and E2E tests (End to End)
-
-## 🔧 How to execute it 
+## 🔧 Como executar
 Go to the folder where you clone the project, open a terminal and follow these steps:
 - 01 - npm install (This command will install all project dependencies)
 - 02 - npm dev (This command will run the project and by default it will be running at: http://localhost:5173)
 
-## 📽️ Demonstration
+## 📽️ Demonstração
 
 
 
 
 
-## 🚀 Technologies
+## 🚀 Tecnologias
 
-The project was developed using these technologies:
+O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - [React](https://reactjs.org)
 - [Vite](https://vitejs.dev)
@@ -51,5 +49,5 @@ The project was developed using these technologies:
 - [Typescript](https://www.typescriptlang.org)
 - [Lucide React](https://lucide.dev)
 
-## :memo: License
-This project is under the MIT License. See [LICENSE](LICENSE) for details.
+## :memo: Licença
+Este projeto está sob a licença do MIT. Consulte a LICENÇA para obter detalhes.
