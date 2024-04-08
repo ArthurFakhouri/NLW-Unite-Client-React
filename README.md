@@ -31,7 +31,7 @@ O sistema fará um scan da credencial do participante para permitir a entrada no
 ## 🔧 Como executar
 Vá para a pasta em que você clonou o projeto, abra o terminal e execute os comandos:
 - 01 - npm install (Esse comando instalará todas as dependências do projeto)
-- 02 - npm dev (Esse comando irá rodar projeto em: http://localhost:5173)
+- 02 - npm run dev (Esse comando irá rodar projeto em: http://localhost:5173)
 
 ## 📽️ Demonstração
 
