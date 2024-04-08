@@ -34,10 +34,7 @@ Vá para a pasta em que você clonou o projeto, abra o terminal e execute os com
 - 02 - npm run dev (Esse comando irá rodar projeto em: http://localhost:5173)
 
 ## 📽️ Demonstração
-
-
-
-
+https://github.com/ArthurFakhouri/NLW-Unite-client-React/assets/71707151/1a761bc1-ba67-4ffa-b328-243b609ab3a2
 
 ## 🚀 Tecnologias
 
